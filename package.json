@@ -1,6 +1,6 @@
 {
   "name": "@louislombardo/babel-plugin-fix-font-awesome",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Modifies Font Awesome imports",
   "main": "src/index.js",
   "scripts": {
